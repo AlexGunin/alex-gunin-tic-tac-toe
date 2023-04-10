@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alex-gunin-tic-tac-toe/static/css/main.3b976c88.css",
+    "main.js": "/alex-gunin-tic-tac-toe/static/js/main.b12c5e44.js",
+    "static/js/787.393238a3.chunk.js": "/alex-gunin-tic-tac-toe/static/js/787.393238a3.chunk.js",
+    "index.html": "/alex-gunin-tic-tac-toe/index.html",
+    "main.3b976c88.css.map": "/alex-gunin-tic-tac-toe/static/css/main.3b976c88.css.map",
+    "main.b12c5e44.js.map": "/alex-gunin-tic-tac-toe/static/js/main.b12c5e44.js.map",
+    "787.393238a3.chunk.js.map": "/alex-gunin-tic-tac-toe/static/js/787.393238a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b976c88.css",
+    "static/js/main.b12c5e44.js"
+  ]
+}
